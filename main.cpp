@@ -1,4 +1,4 @@
-//g++ -std=c++11 0113312.cpp
+//g++ -std=c++11 main.cpp
 #include <iostream>
 #include <fstream>
 #include <algorithm>
